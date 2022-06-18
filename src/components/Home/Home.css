@@ -1,0 +1,86 @@
+.header-bg{
+    background: #F5F9F6;
+
+} 
+
+.header{
+    margin-left: 5rem;
+    margin-right:0px;
+    padding: 0px;
+}
+
+
+.home-left{
+    margin-top: 150px
+    
+}
+
+.home-left h3{
+    color: #343531;
+    font-size: 45px;
+}
+.home-left p{
+    margin-top: 20px;
+    color: #84807A;
+    line-height: 27px;
+}
+
+.our-team{
+    margin: 3rem;
+}
+
+.our-team h2{
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+ 
+
+.latest-news{
+   margin-top: 100px;
+    background: #F5F9F6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.latest-container{
+    margin: 5rem;
+    
+}
+
+
+.form-section{color: #000;overflow-x: hidden;height: 100%;background-image: url("https://i.imgur.com/GMmCQHC.png");
+background-repeat: no-repeat;background-size: 100% 100%}
+
+.card{padding: 30px 40px;margin-top: 60px;margin-bottom: 60px;border: none !important;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2)}
+    
+.blue-text{color: #00BCD4}
+
+.form-control-label{margin-bottom: 0}
+input, textarea, button{padding: 8px 15px;border-radius: 5px !important;margin: 5px 0px;box-sizing: border-box;border: 1px solid #ccc;font-size: 18px !important;font-weight: 300}
+
+input:focus, textarea:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;border: 1px solid #00BCD4;outline-width: 0;font-weight: 400}
+
+.btn-block{text-transform: uppercase;font-size: 15px !important;font-weight: 400;height: 43px;cursor: pointer}
+
+.btn-block:hover{color: #fff !important}
+
+
+button:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;outline-width: 0}
+
+
+
+
+
+@media screen and (max-width: 580px) {
+    .img-responsive img{
+       width: 350px;
+       
+    }
+
+    .icon-none{
+        display: none;
+    }
+}

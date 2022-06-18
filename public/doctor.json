@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Stein Albert",
+        "phone": "+0123435353",
+        "subject":"Cardiology",
+        "description": "List of Countries without Coronavirus case",
+        "img": "https://i.ibb.co/6P073Gb/doctor-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Alexa Melvin",
+        "phone": "+0123435453",
+        "subject":"Dental",
+        "description": "What is the impact of eating too much sugar?",
+        "img": "https://i.ibb.co/jTsXPCf/doctor-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Rebecca Steffany",
+        "phone": "+0123435353",
+        "subject":"General Health",
+        "description": "Shifting goalposts: Research in the time of the coronavirus",
+        "img": "https://i.ibb.co/SQHxs6Y/doctor-3.jpg"
+    } 
+]

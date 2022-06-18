@@ -1,0 +1,36 @@
+
+.bg-doctor{
+    background: linear-gradient(rgba(111,111,108, 0.993), rgba(111,111,108,0.5)),url('../../img//bg_image_1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:scroll;
+    height: 300px;
+}
+
+.doctor{
+    background: #F5F9F6;
+
+}
+
+.doctor-section{
+    margin-left: 13rem;
+    margin-right: 13rem;
+  
+}
+
+.doctor-section img{
+    height:300px;
+}
+
+@media screen and (max-width: 580px) {
+    .doctor-section{
+        margin-left: 2rem;
+        margin-right:2rem;
+      
+    }
+
+    .doctor-section img{
+        height:100%;
+    }
+}
